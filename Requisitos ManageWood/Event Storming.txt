@@ -1,0 +1,19 @@
+cliente esccogio pozuelo
+cliente escogio meson
+cliente escogio color de madecor
+producto fabricado
+producto instladado
+producto maquillado
+producto terminado
+producto comrprado
+cotizacion actualizada
+cotizacion realizada
+inventario vaceado
+inventario reabastecido
+nueva materia ingresada
+nuevo tipo de materia creado
+tipo de empleado creado
+fecha de entrega establecida
+valor por metro de un tipo de cotizacion asignado
+metros de muebles asignado
+inventario lleno
